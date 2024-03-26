@@ -1,0 +1,197 @@
+*
+{
+    margin: 0%;
+    padding:0%;
+}
+body
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif; 
+}
+.container
+{
+    width: 1900px;
+    height: 100%;
+    
+}
+.hadder
+{
+    height: 290px;
+    width: 100%;
+    display: flex;
+
+}
+.left_section
+{
+    width: 650px;
+    display: flex;
+    margin-top: 65px;
+    margin-left: 150px;
+}
+.box
+{
+    height: 80px;
+    width: 80px;   
+    border-top:20px solid rgb(55,76,84);
+    border-left:13px solid rgb(55, 76, 84);
+    background-color: rgb(80, 116, 128);
+}
+.compny_name
+{
+    
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+.right_section
+{
+    height: 610px;
+    width: 650px;
+    background-color:rgba(80, 116, 128, 0.914);
+    z-index: 1;
+    margin-left: 310px;
+    border-bottom-left-radius: 350px;
+    border-bottom-right-radius: 350px;
+}
+.right_section_detail
+{
+
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 90px;
+}
+.right_section_detail h1
+{
+    margin-top: 20px;
+}
+
+.compny_name h1
+{
+    color: rgb(229, 103, 78);
+    font-weight: 700;
+}
+.compny_name span
+{
+    color: black;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+}
+.img
+{
+    margin: 0%;
+    padding: 0%;
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -3px;
+}
+.contain
+{
+
+    width: 1800px;
+    height: 900px;
+    display: flex;
+
+}
+.contain_left
+{
+    width: 1000px;
+}
+.our_service
+{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(80, 116, 128);
+}
+.service_1
+{
+    
+    margin-left: 150px;
+    margin-top: -475px;
+    height: 500px;
+}
+.service_1 h1
+{
+    color: rgb(80, 116, 128);
+   font-weight: 700;
+}
+.service_1 p
+{
+    margin-top: 5px;
+    font-weight: 100;
+}
+.number
+{
+    width: 100px;
+    margin-top: 65px;
+    height: 500px;
+}
+.number h1
+{
+    font-size: 110px;
+    color: rgb(229, 103, 78);
+}
+.contain_right
+{
+    width: 650px;
+    height: 850px;
+    margin-left: 60px;
+}
+.part_1
+{
+    color: white;
+    background-color: rgb(80, 116, 128);
+    height: 40%;
+    
+}
+.part_1_hading
+{
+    padding-top: 60px;
+    text-align: center;
+    
+}
+.part_1_detail
+{
+
+    width: 550px;
+    margin-top: 30px;
+    margin-left: 60px;
+    letter-spacing: 1px;
+}
+.part_2
+{
+    background-color: rgb(229, 103, 78);
+    height: 40%;
+    color: white;
+}
+.part_3
+{
+    display: flex;
+    align-items: center;
+    height: 20%;
+    background-color:rgba(228, 245, 244, 0.862); 
+}
+.part_3 p
+{
+    width: 130PX;
+    margin-left: 270PX;
+    color: rgb(80, 116, 128);
+}
+
+
+
+
+.futter
+{
+    height: 15px;
+    width: 100%;
+    background-color: rgb(229, 103, 78);
+}
